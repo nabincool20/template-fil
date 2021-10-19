@@ -94,7 +94,9 @@ const dashboardRoutes = [
     layout: "/admin",
   },
   {
-    path: "/rtl-page",
+    path: " ",
+    // path: "/rtl-page",
+
     name: "RTL Support",
     rtlName: "پشتیبانی از راست به چپ",
     icon: Language,
@@ -102,7 +104,7 @@ const dashboardRoutes = [
     layout: "/rtl",
   },
   {
-    path: "/upgrade-to-pro",
+    path: " ",
     name: "Upgrade To PRO",
     rtlName: "التطور للاحترافية",
     icon: Unarchive,
