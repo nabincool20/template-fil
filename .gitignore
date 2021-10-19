@@ -13,6 +13,8 @@
 /dist
 
 # misc
+README.md
+ISSUE_TEMPLATE.md
 .DS_Store
 .env.local
 .env.development.local
